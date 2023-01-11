@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;&display=swap');
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+h3{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    padding: .3em 0 .3em 0;
+}
+
+img{
+    width: 290px;
+    height: 200px;
+    padding-bottom: .8em;
+}
+
+.tradingcard {
+    width: 310px;
+    border: 1px solid #DCDCDC;
+    box-shadow: 6px 6px 1px 0px #EBEBEB;
+    padding-right: .2em;
+    padding-left: .7em;
+    padding-bottom: .6em;
+    margin: 0 auto;
+  }
+  
+  .infobox {
+    width: 283px;
+    border: 1px solid rgba(89, 156, 98, 0.667);
+    padding-right: .5em;
+    padding-left: .5em;
+  }
+  
+  p{
+    padding: .8em 0 .8em 0;
+    text-align: justify;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .list-info{
+    list-style-type: none;
+    font-family: 'Poppins', sans-serif;
+    padding: .8em 0 .8em 0;
+    margin: 0;
+  }
+  span {
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+  }
+  
